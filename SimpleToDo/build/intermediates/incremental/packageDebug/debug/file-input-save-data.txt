@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Wed Jun 27 16:33:54 PDT 2018
+#Wed Jun 27 16:54:15 PDT 2018
 0.baseType=DIRECTORY
-0.base=/Users/kathyhuang/AndroidStudioProjects/android_hello_world/SimpleToDo/build/intermediates/transforms/dexMerger/debug/0
+0.base=/Users/kathyhuang/AndroidStudioProjects/SimpleToDo/SimpleToDo/build/intermediates/transforms/dexMerger/debug/0
 0.path=classes.dex
 0.set=DEX
 count=1

@@ -1,4 +1,4 @@
-#Wed Jun 27 16:33:54 PDT 2018
-base.0=/Users/kathyhuang/AndroidStudioProjects/android_hello_world/SimpleToDo/build/intermediates/transforms/dexMerger/debug/0
+#Wed Jun 27 16:54:15 PDT 2018
+base.0=/Users/kathyhuang/AndroidStudioProjects/SimpleToDo/SimpleToDo/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
