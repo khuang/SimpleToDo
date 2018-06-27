@@ -42,10 +42,6 @@ public class MainActivity extends Activity {
 		//wire the adapter to the view
 		lvItems.setAdapter(itemsAdapter);
 
-		//add mock items
-		items.add("First Item");
-		items.add("Finish app!");
-
 		setupListViewListener();
 
 	}
